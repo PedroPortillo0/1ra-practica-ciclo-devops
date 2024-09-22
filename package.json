@@ -1,0 +1,26 @@
+{
+  "name": "act-ciclo-devops",
+  "version": "1.0.0",
+  "description": "Sistema de restablecimiento de contraseña",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroPortillo0/1ra-practica-ciclo-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroPortillo0/1ra-practica-ciclo-devops/issues"
+  },
+  "homepage": "https://github.com/PedroPortillo0/1ra-practica-ciclo-devops#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
