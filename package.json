@@ -2,7 +2,7 @@
   "name": "act-ciclo-devops",
   "version": "1.0.0",
   "description": "Sistema de restablecimiento de contraseña",
-  "main": "index.js",
+  "main": "src/resetPassword.js",
   "directories": {
     "test": "test"
   },
