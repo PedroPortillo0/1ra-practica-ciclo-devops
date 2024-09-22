@@ -1,4 +1,4 @@
-const { generateResetLink, resetPassword } = require('../src/resetPassword');
+const { generateResetLink, resetPassword } = require('../src/recetPassword');
 
 // Simulamos algunos usuarios
 const users = {
